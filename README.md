@@ -12,7 +12,7 @@ This article offers a comprehensive comparison of some of the best free news API
 -   **WorldNewsAPI.com**
 -   **NewsData.io**
 -   **TheNewsAPI.com**
--   **Bing News API**
+-   ~~**Bing News API**~~ (deprecated) 
 
 By examining their features, data coverage, ease of use, and unique offerings, we aim to help you make an informed decision on which API best suits your needs. Whether you're looking to integrate real-time news, historical data, or specific niche content, this guide will provide the insights necessary to select the ideal news API for your application.
 
@@ -101,7 +101,7 @@ The platform also boasts full-text search functionality, enabling users to perfo
 
 While TheNewsAPI.com offers a free tier, its value proposition is evident in its ability to deliver comprehensive, real-time news data that can be easily integrated into various projects. The API's documentation is accessible, making it straightforward for developers to get started and implement the service. Overall, TheNewsAPI.com is a robust solution for anyone needing reliable and scalable access to global news data.
 
-**7. Bing News API**
+~~**7. Bing News API**~~ (deprecated) 
 
 The [Bing News API](https://www.microsoft.com/en-us/bing/apis/bing-news-search-api) is a robust tool designed to facilitate the retrieval of news articles, headlines, and trending topics across various categories. It serves as an essential resource for developers looking to integrate news content into their applications or websites, providing a seamless experience akin to what users find on Bing News.
 
